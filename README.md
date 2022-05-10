@@ -3,7 +3,7 @@ cli to manage your todos.
 
 ## how to use
 1. create a database with a todo table and configure hibernate.cfg.xml.
-2. export project as runnable jar
+2. export project as runnable jar, set Launch configuration = TodoCommand (Eclipse)
 3. create todo.cmd file 
 4. add to todo.cmd -> @java -jar "{Path to jar file}\Todo.jar" %*
 5. move todo.cmd to "C:\Windows"
