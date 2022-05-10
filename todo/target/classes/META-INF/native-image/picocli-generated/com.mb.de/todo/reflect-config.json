@@ -1,0 +1,86 @@
+[
+  {
+    "name" : "com.mb.todo.command.AddTodoCommand",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "dateString" },
+      { "name" : "nDay" },
+      { "name" : "nMonth" },
+      { "name" : "nWeek" },
+      { "name" : "nYear" },
+      { "name" : "todoArray" }
+    ]
+  },
+  {
+    "name" : "com.mb.todo.command.DeleteTodoCommand",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "deleteAll" },
+      { "name" : "todoIdArray" }
+    ]
+  },
+  {
+    "name" : "com.mb.todo.command.DoneTodoCommand",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "doneAll" },
+      { "name" : "todoIdArray" }
+    ]
+  },
+  {
+    "name" : "com.mb.todo.command.GetTodoCommand",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "printAll" },
+      { "name" : "todoIdArray" }
+    ]
+  },
+  {
+    "name" : "com.mb.todo.command.NotDoneTodoCommand",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "doneAll" },
+      { "name" : "todoIdArray" }
+    ]
+  },
+  {
+    "name" : "com.mb.todo.command.TodoCommand",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Boolean",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "picocli.CommandLine$AutoHelpMixin",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "helpRequested" },
+      { "name" : "versionRequested" }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+com\mb\todo\command\GetTodoCommand.class
+com\mb\todo\util\HibernateUtil.class
+com\mb\todo\command\NotDoneTodoCommand.class
+com\mb\todo\command\TodoCommand.class
+com\mb\todo\dao\TodoDao.class
+com\mb\todo\command\DoneTodoCommand.class
+com\mb\todo\command\DeleteTodoCommand.class
+com\mb\todo\command\AddTodoCommand.class
+META-INF\native-image\picocli-generated\com.mb.de\todo\resource-config.json
+META-INF\native-image\picocli-generated\com.mb.de\todo\proxy-config.json
+META-INF\native-image\picocli-generated\com.mb.de\todo\reflect-config.json
+com\mb\todo\entity\Todo.class
