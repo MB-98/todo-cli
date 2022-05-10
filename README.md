@@ -1,7 +1,7 @@
 # todo-cli
 cli to manage your todos.
 
-## how to use it
+## how to use
 1. create a database with a todo table and configure hibernate.cfg.xml.
 2. export project as runnable jar
 3. create todo.cmd file 
